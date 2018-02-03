@@ -7,6 +7,8 @@ I downloaded Bootstrap 4 and launched the site to go though the documentation. O
 
 The other big hurdle I overcame was once the nav bar was fixed to the top of the window, my div id navigation made the nav bar cover the page content. I tried a couple solutions and settled on using separate anchor tags so I could target them using negative positioning values in my CSS (without messing with the way bootstrap’s CSS was applying.)
 
+After taking the javascript course, I went back and added some modal functionality to the bottom section of the site using more Boostrap 4 and jQuery. This pops up a user-friendly form for people to sign up for updates, as well as a floating information bubble if they click the "submit" button at the bottom of the page.
+
 ## Results
 The [final site](https://filedn.com/lWYjvlpRciYBP9xzzyqgShB/EmmaCinema/index.html) looks great on all kinds of screens and it was really fun to build in bootstrap’s framework. In the future, I’d like to work more with the JavaScript to get the nav bar to collapse when a user clicks one of the links. I look forward to using more Bootstrap in my future projects!
   
